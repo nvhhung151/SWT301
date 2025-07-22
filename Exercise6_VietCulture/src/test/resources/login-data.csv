@@ -1,0 +1,5 @@
+email,password,expected
+hungnvhde180312@fpt.edu.vn,Hung123456@@,success
+ngovuhoanhung@gmail.com,Hung123456@@,success
+invalid@email.com,wrongpassword,error
+
